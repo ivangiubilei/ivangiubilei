@@ -1,6 +1,6 @@
 Hello there, 
 <br>
-I create mostly desktop and web applications, I'm also interest in cybersecurity and IoT.
+I create mostly desktop and web applications, I'm also interest in cybersecurity, AI and IoT.
 <br>
 I'm currently studying at university to become a software developer.
 <br>
