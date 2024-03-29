@@ -10,7 +10,7 @@ Where you can find me:
 - [Instagram](https://www.instagram.com/ivangiubilei/)
 - [LinkedIn](https://www.linkedin.com/in/ivan-giubilei-6b317619b/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawa-git&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangiubilei&theme=radical" />
 
 
 <!---
